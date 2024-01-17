@@ -1,7 +1,7 @@
 import os
 from datetime import date
 
-from utils.functions import load_json, get_transaction_objs, get_executed_operations, get_by_date_and_cut, get_masked
+from utils.funcs import load_json, get_transaction_objs, get_executed_operations, get_by_date_and_cut, get_masked
 
 
 def main():
